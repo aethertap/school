@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="770.46716"
+   height="574.85101"
+   viewBox="0 0 203.85277 152.096"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer2"
+     transform="translate(-0.38447255,-0.25349748)">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.600001;stroke-linecap:round"
+       id="rect7"
+       width="203.25276"
+       height="151.49599"
+       x="0.68447304"
+       y="0.55349797" />
+  </g>
+  <g
+     id="layer1"
+     transform="translate(-0.38447255,-0.25349748)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-linecap:round"
+       d="M 15.259043,22.650152 V 106.36006 H 77.118552"
+       id="path1" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-linecap:round"
+       id="path2"
+       cx="104.31574"
+       cy="68.661942"
+       rx="23.556936"
+       ry="25.96456" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-linecap:round"
+       d="m 133.48509,22.650152 v 83.709908 h 63.01112"
+       id="path3" />
+    <rect
+       style="fill:#d45500;stroke:none;stroke-width:0.055815;stroke-linecap:round"
+       id="rect3"
+       width="9.8559904"
+       height="0.51038426"
+       x="22.868538"
+       y="106.10432" />
+    <rect
+       style="fill:#d45500;stroke:none;stroke-width:0.103105;stroke-linecap:round"
+       id="rect4"
+       width="10.328901"
+       height="0.61607957"
+       x="41.555706"
+       y="105.87536" />
+    <rect
+       style="fill:#d45500;stroke:none;stroke-width:0.348906;stroke-linecap:round"
+       id="rect8"
+       width="9.3380823"
+       height="21.050104"
+       x="159.54807"
+       y="85.305649" />
+    <rect
+       style="fill:#d45500;stroke:none;stroke-width:0.598724;stroke-linecap:round"
+       id="rect9"
+       width="10.336568"
+       height="20.759039"
+       x="138.85442"
+       y="85.736229" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.51126px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Bold';text-align:center;text-anchor:middle;fill:#d45500;stroke:#000000;stroke-width:0.0260375;stroke-linecap:round"
+       x="27.769644"
+       y="111.5704"
+       id="text9"><tspan
+         id="tspan9"
+         style="stroke-width:0.0260374"
+         x="27.769644"
+         y="111.5704">E[k]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.1874px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Bold';text-align:center;text-anchor:middle;fill:#d45500;stroke:#000000;stroke-width:0.0245074;stroke-linecap:round"
+       x="48.418823"
+       y="111.58372"
+       id="text10"><tspan
+         id="tspan10"
+         style="stroke-width:0.0245074"
+         x="48.418823"
+         y="111.58372">E[p]</tspan></text>
+    <rect
+       style="fill:#d45500;stroke:none;stroke-width:1.13827;stroke-linecap:round"
+       id="rect12"
+       width="9.2937355"
+       height="83.451073"
+       x="61.720619"
+       y="22.522778" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.1874px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Bold';text-align:center;text-anchor:middle;fill:#d45500;stroke:#000000;stroke-width:0.0245074;stroke-linecap:round"
+       x="68.066154"
+       y="111.58372"
+       id="text13"><tspan
+         id="tspan13"
+         style="stroke-width:0.0245074"
+         x="68.066154"
+         y="111.58372">E[ch]</tspan></text>
+    <rect
+       style="fill:#d45500;stroke:none;stroke-width:0.103105;stroke-linecap:round"
+       id="rect13"
+       width="10.328901"
+       height="0.61607957"
+       x="179.65414"
+       y="105.87536" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.1874px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Bold';text-align:center;text-anchor:middle;fill:#d45500;stroke:#000000;stroke-width:0.0245074;stroke-linecap:round"
+       x="186.51726"
+       y="111.58372"
+       id="text14"><tspan
+         id="tspan14"
+         style="stroke-width:0.0245074"
+         x="186.51726"
+         y="111.58372">E[ch]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.51126px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Bold';text-align:center;text-anchor:middle;fill:#d45500;stroke:#000000;stroke-width:0.0260375;stroke-linecap:round"
+       x="144.47156"
+       y="111.5704"
+       id="text15"><tspan
+         id="tspan15"
+         style="stroke-width:0.0260374"
+         x="144.47156"
+         y="111.5704">E[k]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.1874px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Bold';text-align:center;text-anchor:middle;fill:#d45500;stroke:#000000;stroke-width:0.0245074;stroke-linecap:round"
+       x="165.12074"
+       y="111.58372"
+       id="text16"><tspan
+         id="tspan16"
+         style="stroke-width:0.0245074"
+         x="165.12074"
+         y="111.58372">E[p]</tspan></text>
+    <rect
+       style="fill:#d45500;stroke:none;stroke-width:0.600001;stroke-linecap:round"
+       id="rect16"
+       width="3.7318959"
+       height="23.008854"
+       x="33.605446"
+       y="129.40196"
+       transform="rotate(-40.926125)" />
+    <path
+       style="fill:#d45500;stroke:none;stroke-width:0.600001;stroke-linecap:round"
+       id="path16"
+       d="m 93.132538,113.71648 -4.579989,-7.93277 9.159977,0 z"
+       transform="rotate(-40.926125,86.993301,55.425487)" />
+  </g>
+</svg>
